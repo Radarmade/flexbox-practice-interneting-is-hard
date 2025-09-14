@@ -68,6 +68,7 @@
   height: 300px;
 }
 
+/*Change item order*/
 .first-item {
   order: 1;
 }
